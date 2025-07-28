@@ -85,6 +85,8 @@
 
 // Javob:Kodini yozib bering
 // let harflar = ["a", "b", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "x", "y", "z"]
+// console.log(harflar[0] + harflar[1] + harflar[2] + harflar[19] + harflar[10] + harflar[10] + harflar[13] + harflar[21]);
+
 
 
 
